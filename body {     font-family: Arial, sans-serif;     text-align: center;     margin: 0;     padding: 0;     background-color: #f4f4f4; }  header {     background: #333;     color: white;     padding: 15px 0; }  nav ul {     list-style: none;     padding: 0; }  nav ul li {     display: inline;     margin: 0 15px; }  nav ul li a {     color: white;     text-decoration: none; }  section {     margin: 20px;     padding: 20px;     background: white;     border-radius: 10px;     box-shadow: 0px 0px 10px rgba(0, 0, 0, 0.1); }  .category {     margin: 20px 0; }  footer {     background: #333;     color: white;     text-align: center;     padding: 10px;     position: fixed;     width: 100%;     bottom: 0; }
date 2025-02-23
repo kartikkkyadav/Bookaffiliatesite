@@ -1,0 +1,45 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Affiliate Site</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        .book-category {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .book-category a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Book Affiliate Site</h1>
+        <p>Explore books and buy through affiliate links.</p><div class="book-category">
+        <h2>📚 Self-Improvement Books</h2>
+        <a href="#">Atomic Habits - Buy Now</a>
+    </div>
+
+    <div class="book-category">
+        <h2>❤️ Romantic Books</h2>
+        <a href="#">It Ends With Us - Buy Now</a>
+    </div>
+</div>
+
+</body>
+</html>
